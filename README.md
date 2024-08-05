@@ -1,3 +1,3 @@
 ### Olá! Sou o Pedro
 
-- 🌱 Estudando Ciência da Computação 
+- 🌱 Estudando Engenharia de Software
